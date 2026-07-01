@@ -1,2 +1,15 @@
-# AI-for-Kids--Biggeners-
-A project to make Artificial Intelligence easy for children and non-specialists.
+
+
+# AI for Kids and Beginners 
+
+Welcome!
+
+This project aims to make Artificial Intelligence easy to understand for children and non-specialists through:
+
+- Simple books
+- Educational games
+- Practical examples
+- Interactive learning activities
+
+Mission:
+To make AI education accessible to everyone.
