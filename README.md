@@ -1,6 +1,6 @@
 
 
-# AI for Kids and Beginners 
+# AI for Kids and non specialists 
 
 Welcome!
 
