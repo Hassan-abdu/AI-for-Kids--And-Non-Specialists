@@ -108,3 +108,4 @@ Explore the project and follow its development on GitHub:
 AI for Kids and Non-Specialists
 Repository: https://github.com/Hassan-abdu/AI-for-Kids--And-Non-Specialists
 Making AI easier to understand, one concept at a time.
+.
