@@ -23,7 +23,7 @@ Support inclusive learning for people with different educational backgrounds.
 Help learners understand the capabilities and limitations of AI systems.
 Promote awareness of ethical considerations, privacy, and responsible human-AI interaction.
 📚 Educational Approach
-The project aims to make AI education more accessible through the following approaches.
+The project aims to make AI education more accessible through five approaches.
 1. Simple Explanations
 Presenting AI concepts in language that learners without technical backgrounds can understand.
 2. Educational Storytelling
@@ -44,7 +44,7 @@ Human-AI Interaction.
 Responsible and Ethical AI.
 AI in Education.
 Inclusive and Accessible Learning.
-The Capabilities and Limitations of AI Systems.
+Capabilities and Limitations of AI Systems.
 These topics represent the project's educational direction and will be developed progressively.
 🗺️ Project Roadmap
 The project will evolve through the following planned stages.
@@ -81,7 +81,7 @@ Document technical developments and lessons learned.
 Explore opportunities for collaboration and further research.
 The roadmap is provisional and may evolve as the project develops.
 🛡️ Responsible AI Principles
-The project aims to promote responsible AI education by emphasizing:
+The project aims to promote responsible AI education by emphasizing the following principles:
 Human Judgment and Oversight: Recognizing the importance of human guidance when using AI systems.
 Transparency: Explaining AI capabilities and limitations honestly.
 Privacy and Data Protection: Promoting awareness of personal information and responsible data practices.
@@ -105,7 +105,5 @@ Future development may include an AI educational agent designed to support acces
 All future development will be documented transparently, distinguishing completed work from planned features.
 💻 Repository
 Explore the project and follow its development on GitHub:
-AI for Kids and Non-Specialists
-Repository: https://github.com/Hassan-abdu/AI-for-Kids--And-Non-Specialists
-Making AI easier to understand, one concept at a time.
-
+AI for Kids and Non-Specialists Repository
+Making AI easier to understand.
